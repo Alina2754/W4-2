@@ -1,0 +1,49 @@
+body {
+    background: linear-gradient(to right, rgb(241, 184, 210), rgb(149, 187, 233))
+}
+
+#rectangle {
+    position: absolute;
+    Width: 80vw;
+    Height: 693px;
+    left: 144px;
+    right: 154px;
+    top: 82px;
+    background: #FFFFFF;
+    box-shadow: 4px 4px 100px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+}
+
+#logo {
+    position: absolute;
+    left: 68px;
+    top: 44px;
+}
+
+nav {
+    position: absolute;
+    top: 124px;
+    right: 10vw;
+    font-family: 'Inter', sans-serif;
+}
+
+.text {
+    position: absolute;
+    font-family: 'Inter', sans-serif;
+}
+
+#p1 {
+    top: 265px;
+    left: 165px;
+}
+
+#p2 {
+    top: 295px;
+    left: 165px;
+}
+
+#photo {
+    position: absolute;
+    top: 324px;
+    right: 10vw;
+}
